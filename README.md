@@ -14,7 +14,7 @@ Imagine yourself in the vast world of Allumeria, filled with various dungeons an
 
 </div>
 
-## Screenshot
+## Screenshots
 <div align="center">
   <table>
   <tr>
