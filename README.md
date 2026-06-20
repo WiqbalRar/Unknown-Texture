@@ -1,5 +1,5 @@
 <div align="Center">
-  <img width="184" height="184" alt="Desain tanpa judul" src="https://github.com/user-attachments/assets/30ce06df-3708-4688-91c3-fb3c44a2529d" />
+  <img width="184" height="184" alt="Desain tanpa judul" src="screenshots/icon.png" />
   <h1>Unknown Texture</h1>
   <h2>A quiet and lonely world...</h2>
   <h3>! We recommend reducing the render distance to 2 for a better experience !</h3>
